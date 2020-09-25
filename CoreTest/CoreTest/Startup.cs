@@ -17,7 +17,7 @@ namespace CoreTest
         private readonly IConfiguration _Config;
 
         public Startup(IConfiguration config)
-        {//Test // 123456
+        {//Test // 12345678
             _Config = config;
         }
 
