@@ -21,6 +21,7 @@ namespace CoreTest
 
             //123
             //456
+            //789
             _Config = config;
         }
 
