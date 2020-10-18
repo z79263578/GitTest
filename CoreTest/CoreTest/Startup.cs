@@ -15,7 +15,7 @@ namespace CoreTest
     {
         public int[] cap;
         private readonly IConfiguration _Config;
-
+        //123456789
         public Startup(IConfiguration config)
         {//Test // 1234567811231234242413
 
