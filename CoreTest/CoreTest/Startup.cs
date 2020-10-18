@@ -20,9 +20,7 @@ namespace CoreTest
         {//Test // 1234567811231234242413
 
             //123
-            //456
             //789
-            //111111
             _Config = config;
         }
 
