@@ -18,6 +18,8 @@ namespace CoreTest
 
         public Startup(IConfiguration config)
         {//Test // 1234567811231234242413
+
+            //123
             _Config = config;
         }
 
