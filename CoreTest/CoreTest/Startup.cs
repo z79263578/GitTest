@@ -19,7 +19,7 @@ namespace CoreTest
         public Startup(IConfiguration config)
         {//Test // 1234567811231234242413//hello!
             //456789
-            //123
+            //123//5456456456456456456
             //789
             //TEST123456
             _Config = config;
@@ -27,12 +27,12 @@ namespace CoreTest
 
         // This method gets called by the runtime. Use this method to add services to the container.
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
-        //�t�d �̿�`�JDI
+        //­t³d ¨Ì¿àª`¤JDI
         public void ConfigureServices(IServiceCollection services)
         {
             Dictionary<string,int> DIC = new Dictionary<string, int>();
             //services.AddMvc(); BIG  MVC
-            //services.AddControllersWithViews();  �ϥ�MVC
+            //services.AddControllersWithViews();  ¨Ï¥ÎMVC
             //services.AddSingleton()
         }
 
